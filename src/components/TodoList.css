@@ -1,0 +1,51 @@
+input{
+    width:200px;
+    padding:12px;
+    background-color: #121212;
+    border:#090909 1px solid;
+    color:#aeaeae;
+    border-radius:12px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.tasks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.task{
+    width:280px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.remove{
+    padding:4px;
+    padding-left:12px;
+    padding-right:12px;
+    background-color: #851919;
+    border:1px solid #601515;
+    color:#fff;
+    border-radius: 8px;
+}
+
+.addTask{
+    padding:12px;
+    background:#090909;
+    border:#090909 1px solid;
+    color:#aeaeae;
+    border-radius:12px;
+    border-top-left-radius:0px;
+    border-bottom-left-radius:0px;
+}
