@@ -1,4 +1,5 @@
 # Astro + Solid.js Example
+![image](https://github.com/Hasan-Kilici/solid-astro-todo-app/assets/105741983/9dc56f9c-a8b0-47a7-9fab-33a3cd025cd5)
 
 ```
 npm create astro@latest -- --template framework-solid
